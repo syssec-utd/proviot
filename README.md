@@ -31,7 +31,7 @@ conda activate proviot
 Running the ProvIoT script:
 
 ```bash
-python sigl.py
+python proviot.py
 ```
 
 ## Citing us
